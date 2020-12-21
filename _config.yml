@@ -20,4 +20,5 @@
 
 name: Nick's Recipes
 markdown: Kramdown
+pygments: true
 baseurl: /recipes
