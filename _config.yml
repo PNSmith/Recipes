@@ -19,6 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 name: Christmas Recipes
-markdown: redcarpet
+markdown: Kramdown
 pygments: true
 baseurl: /recipes
