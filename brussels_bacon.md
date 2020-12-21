@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Brussels with bacon and Chestnuts
+title: Brussels with Bacon
 recipe-attribution: Nick Smith
 image: https://live.staticflickr.com/3414/3633458939_4e6e779de4.jpg" alt="Roasted Brussels Sprouts with Garlic Chips
 ---
