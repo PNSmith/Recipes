@@ -20,5 +20,6 @@
 
 name: Christmas Recipes
 markdown: Kramdown
-pygments: true
+  syntax_highlighter_opts:
+    disable : true
 baseurl: /recipes
